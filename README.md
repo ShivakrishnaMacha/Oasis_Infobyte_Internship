@@ -49,7 +49,6 @@ This project aims to analyze unemployment data and identify trends and patterns.
 - **Statistical Analysis:** Using statistical methods to interpret and validate results.
 - **Machine Learning Algorithms:** Implemented and optimized various machine learning models including regression, classification, and decision trees.
 - **Data Visualization:** Creating insightful visualizations with matplotlib and seaborn to communicate findings effectively.
-- **Project Management:** Handling multiple projects simultaneously and delivering results within tight deadlines.
 - **Problem-Solving:** Addressing real-world data problems with innovative solutions.
 
 ### General Skills
