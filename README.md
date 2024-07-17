@@ -19,7 +19,7 @@ This project involves building a machine learning model to classify iris flowers
 - Model training and evaluation using various classification algorithms.
 - Achieved high accuracy in classifying the iris species.
 
-[View Project](link-to-Iris-Flower-Classification.ipynb)
+[View Project](https://github.com/ShivakrishnaMacha/Oasis_Infobyte_Internship/blob/main/Iris%20Flower%20Classification.ipynb)
 
 ### 2. Sales Prediction
 
@@ -30,7 +30,7 @@ In this project, I developed a predictive model to forecast sales based on histo
 - Implemented linear regression and decision tree regression models.
 - Evaluated model performance using metrics like RMSE and MAE.
 
-[View Project](link-to-Sales-Prediction.ipynb)
+[View Project](https://github.com/ShivakrishnaMacha/Oasis_Infobyte_Internship/blob/main/Sales%20Prediction.ipynb)
 
 ### 3. Unemployment Analysis
 
@@ -41,8 +41,7 @@ This project aims to analyze unemployment data and identify trends and patterns.
 - Time series analysis to identify trends and seasonality.
 - Interpretation of results to provide actionable insights.
 
-[View Project](link-to-Unemployment-Analysis.ipynb)
-
+[View Project](https://github.com/ShivakrishnaMacha/Oasis_Infobyte_Internship/blob/main/Unemployment%20Analysis.ipynb)
 ## Skills and Technologies
 
 ### Acquired During Internship
